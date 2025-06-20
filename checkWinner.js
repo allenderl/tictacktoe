@@ -13,5 +13,5 @@
         });
       }
 
-      export default = checkWinner; // Export the function
+      export default checkWinner; // Export the function
   
